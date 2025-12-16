@@ -21,7 +21,7 @@ This causes services such as Twilio (for sending confirmation SMS) to reject the
 Instead of relying on JFB's standard sanitization options, we created a custom PHP function that rigorously cleans the data to leave only the `+` sign and digits.
 
 <img width="1514" height="822" alt="Captura de pantalla 2025-12-15 a la(s) 6 36 22 p  m" src="https://github.com/user-attachments/assets/fabd8cb9-b44b-4bcd-bf57-cf5a60fa2ba5" />
-
+<img width="1377" height="733" alt="Captura de pantalla 2025-12-15 a la(s) 7 50 50 p  m" src="https://github.com/user-attachments/assets/3f28e196-3bc6-4b6d-9c27-11b5f739ad47" />
 
 
 ### Step A: Add the PHP Function (To the Server)
